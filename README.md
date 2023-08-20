@@ -1,3 +1,3 @@
-# ÜRÜN YÖNETİMİ
+# PRODUCT MANAGEMENT
 
-Ürün ekleme, güncelleme ve silme gibi işlemlerin yapılabildiği, veri tabanı işlemlerinin gerçekleştirildiği Flutter mobil uygulaması.
+A Flutter mobile application where operations such as adding, updating, and deleting products are performed, and database operations are executed.
